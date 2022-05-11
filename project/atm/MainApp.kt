@@ -1,5 +1,8 @@
 package project.atm
 
+import project.atm.models.ATM
+import project.atm.models.Account
+
 // internal - в рамках этого пакета
 internal var data = mutableListOf<Account>()
 
